@@ -1,5 +1,5 @@
 # create a Booking class where customer can book for a movie
-from threater import Threater
+
 class Booking:
     def __init__(self, customer, movie , threater, seats = 1):
         self.customer = customer
